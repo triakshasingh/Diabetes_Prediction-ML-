@@ -9,4 +9,3 @@ A simple machine learning project that predicts whether a person is diabetic usi
 - Model: Support Vector Machine (SVM) with a linear kernel
 - Metric: Accuracy score (train + test)
 
-## Project Structure (suggested)
